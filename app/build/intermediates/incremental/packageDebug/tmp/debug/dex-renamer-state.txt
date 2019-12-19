@@ -1,0 +1,4 @@
+#Thu Dec 19 21:39:23 IST 2019
+base.0=H\:\\My Aca\\DBMS\\Mini project\\Backup\\gitRepo\\SimpleExpenseManager\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
